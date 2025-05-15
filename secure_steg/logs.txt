@@ -1,0 +1,21 @@
+2025-05-15 19:08:17.443327 | Encode | Success | IP: 127.0.0.1
+2025-05-15 19:08:37.116487 | Decode | Success | IP: 127.0.0.1
+2025-05-15 19:32:22.002780 | Decode | Success | IP: 127.0.0.1
+UserID:1 - Encoded a message in output.png at 2025-05-15 20:11:18
+UserID:1 - Encoded a message in output.png at 2025-05-15 20:11:39
+UserID:1 - Encoded a message in project6.webp at 2025-05-15 20:17:16
+UserID:1 - Encoded a message in output.png at 2025-05-15 20:19:34
+UserID:1 - Decoded a message from encoded_output.png at 2025-05-15 20:19:52
+UserID:admin - User logged in at 2025-05-15 21:17:15
+UserID:admin - User logged in at 2025-05-15 21:17:39
+UserID:admin - User logged in at 2025-05-15 21:20:18
+UserID:admin - User logged in at 2025-05-15 21:20:33
+UserID:admin - User logged out at 2025-05-15 22:13:28
+UserID:admin - User logged in at 2025-05-15 23:03:40
+UserID:admin - User logged out at 2025-05-15 23:03:52
+UserID:admin - User logged in at 2025-05-15 23:04:00
+UserID:admin - User logged out at 2025-05-15 23:19:27
+UserID:admin - User logged in at 2025-05-15 23:19:58
+UserID:admin - User logged in at 2025-05-16 00:04:15
+UserID:admin - User logged out at 2025-05-16 00:14:01
+UserID:admin - User logged in at 2025-05-16 00:14:14
